@@ -34,3 +34,6 @@ After a while it picks only one of the actual possible directions and if it gets
 After a while it picks only one of the actual possible directions and if it gets stuck, it goes back until it finds a new valid direction.}
 
 # ALGORITHMS USED
+-Best First Search
+-Depth First Search
+-Backtracking
