@@ -8,10 +8,10 @@ This game is about solving new procedurally generated mazes. There's an A.I. tha
 #If you're new to the game here's a little tutorial about the game commands
 ![Tutorial](MEDIA/tutorial.PNG)
 
-#That's the hardest level in the game, can you solve it faster than the A.I.? ...Can you even solve it?
+#That's the hardest level in the game, can you solve it faster than the A.I.? ...Can you solve it AT ALL?!?
 ![A.I. Solving](MEDIA/extreme.PNG)
 
-#Apart from the "Chronometer" modality that can be player by both the user and the A.I. there's also the "TIMER" mode that can be played only by the user.
+#Apart from the "Chronometer" modality that can be played by both the user and the A.I. there's also the "TIMER" mode that can be played only by the user.
 ![A.I. Solving](MEDIA/torc.PNG)
 
 #This short .gif is here to show briefly how the A.I. solves the maze and it's thought process(as shown in Command Line)
