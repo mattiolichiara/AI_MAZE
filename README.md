@@ -26,5 +26,11 @@ This short .gif is here to show briefly how the A.I. solves the maze and it's th
 
 ![A.I. Solving](MEDIA/gif.gif)
 
-![A.I. Solving](MEDIA/thoughtprocess.PNG) {The A.I. during its first steps chooses the next direction randomly (in order to obtain more variation and to avoid to get stuck in a loop).
+{The A.I. during its first steps chooses the next direction randomly (in order to obtain more variation and to avoid to get stuck in a loop).
 After a while it picks only one of the actual possible directions and if it gets stuck, it goes back until it finds a new valid direction.}
+
+![A.I. Solving](MEDIA/thoughtprocess.PNG) 
+{The A.I. during its first steps chooses the next direction randomly (in order to obtain more variation and to avoid to get stuck in a loop).
+After a while it picks only one of the actual possible directions and if it gets stuck, it goes back until it finds a new valid direction.}
+
+# ALGORITHMS USED
