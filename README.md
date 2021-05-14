@@ -3,19 +3,26 @@ Procedural Mazes with auto-solving AI
 
 (This program was created for learning purposes and it was one of the first approaches to OOP, the code might be a little messy but there's always room for improvement! c: )
 
+
+
 This game is about solving new procedurally generated mazes. There's an A.I. that can solve all of them at every complexity, can you beat it by solving it faster? There are four levels: EASY, MEDIUM, HARD and EXTREME.
+
 ![A.I. Solving](MEDIA/diff.PNG)
 
-#If you're new to the game here's a little tutorial about the game commands
+If you're new to the game here's a little tutorial about the game commands
+
 ![Tutorial](MEDIA/tutorial.PNG)
 
-#That's the hardest level in the game, can you solve it faster than the A.I.? ...Can you solve it AT ALL?!?
+That's the hardest level in the game, can you solve it faster than the A.I.? ...Can you solve it AT ALL?!?
+
 ![A.I. Solving](MEDIA/extreme.PNG)
 
-#Apart from the "Chronometer" modality that can be played by both the user and the A.I. there's also the "TIMER" mode that can be played only by the user.
+#part from the "Chronometer" modality that can be played by both the user and the A.I. there's also the "TIMER" mode that can be played only by the user.
+
 ![A.I. Solving](MEDIA/torc.PNG)
 
-#This short .gif is here to show briefly how the A.I. solves the maze and it's thought process(as shown in Command Line)
+This short .gif is here to show briefly how the A.I. solves the maze and it's thought process(as shown in Command Line)
+
 ![A.I. Solving](MEDIA/gif.gif)
 
 ![A.I. Solving](MEDIA/thoughtprocess.PNG)
