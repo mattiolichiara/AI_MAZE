@@ -9,7 +9,7 @@ This game is about solving new procedurally generated mazes. There's an A.I. tha
 
 ![A.I. Solving](MEDIA/diff.PNG)
 
-If you're new to the game here's a little tutorial about the game commands
+If you're new to the game here's a little tutorial about the game commands:
 
 ![Tutorial](MEDIA/tutorial.PNG)
 
@@ -17,7 +17,8 @@ That's the hardest level in the game, can you solve it faster than the A.I.? ...
 
 ![A.I. Solving](MEDIA/extreme.PNG)
 
-#part from the "Chronometer" modality that can be played by both the user and the A.I. there's also the "TIMER" mode that can be played only by the user.
+Apart from the "Chronometer" mode that can be played by both the user and the A.I. there's also the "TIMER" mode that can be played only by the user.
+Exclusively for user modes there are bonuses and maluses, they modify your score accordingly, so pay attention! 
 
 ![A.I. Solving](MEDIA/torc.PNG)
 
