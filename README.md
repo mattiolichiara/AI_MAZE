@@ -1,4 +1,4 @@
-<p align="center"># AI_MAZE
+# AI_MAZE
 Procedural Mazes with auto-solving AI
 
 (This program was created for learning purposes and it was one of the first approaches to OOP, the code might be a little messy but there's always room for improvement! c: )
@@ -41,4 +41,4 @@ After a while it picks only one of the actual possible directions and if it gets
 -Depth First Search
 
 -Backtracking
-</p>
+
