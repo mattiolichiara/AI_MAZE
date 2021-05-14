@@ -1,8 +1,6 @@
 # AI_MAZE
 Procedural Mazes with auto-solving AI
 
-(This program was created for learning purposes and it was one of the first approaches to OOP, the code might be a little messy but there's always room for improvement! c: )
-
 # THE GAME
 
 This game is about solving new procedurally generated mazes. There's an A.I. that can solve all of them at every complexity, can you beat it by solving it faster? There are four levels: EASY, MEDIUM, HARD and EXTREME.
